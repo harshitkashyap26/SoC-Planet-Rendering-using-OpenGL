@@ -1,0 +1,12 @@
+Mouse: Look around
+
+Keyboard: 
+
+(Important) X Key - To switch on/off atmosphere. The atmosphere part of Earth looks rough and hides much portion of the Earth
+		    so I made a switch to trigger it on or off
+
+W/A/S/D Key - Move forward, left, backward, right respectively
+
+C key - Move down
+
+Spacebar key - Move up

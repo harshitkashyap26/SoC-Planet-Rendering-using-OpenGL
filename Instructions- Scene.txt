@@ -1,0 +1,10 @@
+The code will render Earth at origin rotating around its axis, and the Sun will be rotating around the Earth. (From the
+frame of reference of Earth, its actually the Earth rotating around the Sun in reality). The part of Earth facing the Sun
+will have day time while the other part will have nightime. The Earth is also surrounded by cloudy atmosphere.
+
+Important Note: The rendering uses very high quality cubemaps, so it may take some time to open the first time. A white
+screen may be visible for the time it will take to render, usually around 10 seconds. But again it depends on the specs
+of your system
+
+
+

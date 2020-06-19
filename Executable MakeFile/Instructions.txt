@@ -1,0 +1,7 @@
+Prerequisites: Must have x64 native toold command prompt of visual studio. If you have visual studio installed, most likely the prompt would have also been
+	       installed.
+Instructions: 1.In the windows search bar, search 'x64 native tools command prompt' and open it. 
+	      2.By changing directories using the 'cd' command, navigate to the 'Instructions' folder. There will be a Makefile over there.
+	      3.Now on the command prompt use the command 'nmake'. For now ignore the warnings.
+	      4.After succesful compilation, type 'Planet.exe' and hit enter. The project should be running now.
+	      5.To startover with the compilation, use 'nmake clean' and then use 'nmake'.

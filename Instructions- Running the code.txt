@@ -1,0 +1,6 @@
+Option 1: Using Visual Studio(Better)
+If you have Visual Studio installed on your system, go to the OpenGLVS folder and run the OpenGLVS.sln solution file on VS.
+Next, open the existing MainLite.cpp in the project and build it. Simple.
+
+Option 2: Using Makefile
+Go to the Executable MakeFile folder and follow the instructions inside.

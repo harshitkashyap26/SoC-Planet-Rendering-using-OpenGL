@@ -1,0 +1,94 @@
+﻿  MainLite.cpp
+C:\Users\Harshit\Desktop\OpenGLRoot\External Resources\GLFW\include\shader_g.h(56,40): warning C4101: 'e': unreferenced local variable
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(94,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(114,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(114,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(114,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(114,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(117,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(117,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(117,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(117,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(118,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(118,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(118,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(118,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(120,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(120,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(120,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(120,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(124,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(124,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(124,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(124,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(129,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(129,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(129,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(129,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(132,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(132,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(132,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(132,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(135,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(135,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(135,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(135,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(136,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(136,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(136,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(136,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(138,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(138,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(138,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(138,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(141,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(141,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(141,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(141,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(142,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(142,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(142,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(142,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(143,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(143,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(143,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(143,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(145,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(145,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(145,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(145,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(146,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(146,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(146,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(146,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(148,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(148,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(148,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(148,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(149,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(149,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(149,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(149,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(154,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(154,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(154,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(154,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(155,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(155,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(155,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(155,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(157,17): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(157,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(157,49): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(157,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(287,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(319,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(319,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(446,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(447,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(451,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(452,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(454,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(455,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\OpenGLVS\MainLite.cpp(464,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLVS.vcxproj -> C:\Users\Harshit\Desktop\OpenGLRoot\OpenGLVS\Debug\OpenGLVS.exe
